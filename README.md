@@ -1,5 +1,5 @@
 # TeachMeSkills_C27_lesson_7_HW
-Homework for the sixth lesson
+Homework for the seventh lesson
 
 **task1** we created a class "CreditCard" with the fields "Account number" and "Current amount".  
 Created one constructor with two parameters. Created methods for increasing and decreasing the amount,  
